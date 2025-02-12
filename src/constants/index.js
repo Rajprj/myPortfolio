@@ -153,7 +153,7 @@ const testimonials = [
     name: "Utsav Patel",
     designation: "",
     company: "",
-    image: "/img/utsav.jpg",
+    image: "https://rajprj.github.io/myPortfolio/img/utsav.jpg",
   },
   {
     testimonial:
@@ -161,7 +161,7 @@ const testimonials = [
     name: "Sandip Singh",
     designation: "Sales Executive",
     company: "",
-    image: "/img/senty.jpg",
+    image: "https://rajprj.github.io/myPortfolio/img/senty.jpg",
   },
   {
     testimonial:
@@ -169,7 +169,7 @@ const testimonials = [
     name: "Nikita Thakkar",
     designation: "BDM",
     company: "of Sunflower broking pvt ltd",
-    image: "/img/nikki.jpg",
+    image: "https://rajprj.github.io/myPortfolio/img/nikki.jpg",
   },
 ];
 
