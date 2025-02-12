@@ -43,7 +43,7 @@ const Navbar = () => {
           }}
         >
          <img 
-  src="https://rajprj.github.io/myPortfolio/logo.png" 
+  src="/myPortfolio/logo.png" 
   alt="logo" 
   className="w-9 h-9 object-contain" 
   style={{ borderRadius: "50%" }} 
